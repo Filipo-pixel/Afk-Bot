@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "economaserver.aternos.me",
+    "port": 55429,
     "version": "1.19.3"
   },
 
